@@ -9,7 +9,7 @@ I am **Rohit Chivukula**, a third year undergraduate student at West Virginia Un
   - LinkedIn: https://www.linkedin.com/in/rohit-chivukula/
 - 📫 How to reach AIWVU: 
   - AIWVU Instagram: https://www.instagram.com/ai.wvu/ 
-  - AIWVU Linktree: [linktr.ee/aiwvu](linktr.ee/aiwvu)
+  - AIWVU Linktree: https://linktr.ee/aiwvu
 
 ### Languages and Tools: 
 - Python 
