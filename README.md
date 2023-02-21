@@ -19,3 +19,6 @@ I am **Rohit Chivukula**, a third year undergraduate student at West Virginia Un
 - Django
 - TensorFlow
 - PyTorch
+- Docker
+- HTML/CSS
+- Angular
