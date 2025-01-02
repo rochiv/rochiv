@@ -5,7 +5,7 @@ I am **Rohit Chivukula**, a machine learning engineer for NextGen Federal System
 At WVU:
 
 - I lead the Artificial Intelligence WVU ([AIWVU](https://aiwvu.orgs.wvu.edu/home)) student organization as the president for 2 years hosting events and projects.
-- I worked with Dr. Gianfranco Doretto at WVU Vision and Learning ([WVUVL](https://vision.csee.wvu.edu/)) Group and contributed to a 3D UNet for automatic tumor/lesion segmentation in PET scans. I also contributed to a Alzheimer's disease detection model using the ADNI dataset.
+- Under Dr. Gianfranco Doretto's guidance at WVU Vision and Learning ([WVUVL](https://vision.csee.wvu.edu/)) Group, I contributed to a 3D UNet for automatic tumor/lesion segmentation in PET scans. I also contributed to a Alzheimer's disease detection model using the ADNI dataset.
 
 ## 🌐 Socials:
 
